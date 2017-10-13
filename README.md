@@ -6,9 +6,9 @@ Link to entry: http://ludumdare.com/compo/ludum-dare-36/?action=preview&uid=1134
 
 ## Screenshots
 <p float="left">
-  <img src="title.jpg" width="100" />
-  <img src="intro.jpg" width="100" /> 
-  <img src="gameplay.jpg" width="100" />
+  <img src="title.jpg" width="200" />
+  <img src="intro.jpg" width="200" /> 
+  <img src="gameplay.jpg" width="200" />
 </p>
 
 ## Download instructions
